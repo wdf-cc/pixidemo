@@ -1,0 +1,1 @@
+{"version":3,"sources":["index.css"],"names":[],"mappings":"AAAA;AACA;AACA;AACA;AACA;AACA;AACA;AACA;AACA","file":"Pixidemo.9ad09f98.css","sourceRoot":"..","sourcesContent":["video#video{\r\n    position: fixed;\r\n    width: 100%;\r\n    height: 100%;\r\n    left: 0px;\r\n    top: 0px;\r\n    object-fit: cover;\r\n    object-position: center center;\r\n}"]}
